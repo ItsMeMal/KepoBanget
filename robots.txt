@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kepobanget.vercel.app/sitemap.xml
