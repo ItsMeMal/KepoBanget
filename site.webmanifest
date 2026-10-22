@@ -1,0 +1,18 @@
+{
+  "name": "KepoBanget",
+  "short_name": "KepoBanget",
+  "description": "Kuis kepribadian dan hiburan gratis berbahasa Indonesia.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111018",
+  "theme_color": "#111018",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "lang": "id-ID"
+}
